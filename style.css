@@ -1,0 +1,134 @@
+body{
+   
+}
+.heading{
+    background-image: url("image/7.png");
+    background-size: cover;
+    height: 500px;
+    width: 1311px;
+    margin-top: -27px;
+    margin-right: 0px;
+    padding: 100px 50px 50px 150px;
+
+}
+.heading_one{
+    margin-top: 100px;
+    font-size: 40px;
+    font-family: cursive;
+}
+#skip_text{
+    color: orange;
+}
+p{
+    font-size: 25px;
+}
+#first_pic{
+    width: 450px;
+    margin-left: 900px;
+    margin-top: -400px;
+}
+#my_pic{
+    width: 400px;
+    margin-left: 900px;
+    margin-top: -700px;
+}
+.btn{
+    color: white;
+    font-size: 25px;
+    font-family: fantasy;
+    border: 2px solid orange;
+    padding: 15px;
+    border-radius: 20%;
+    margin-left: 50px;
+    background-image: linear-gradient(black, red);
+}
+.add-link{
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+    border: 2px solid gray;
+    border-radius: 25%;
+    background-image: linear-gradient(yellow, red);
+    margin-left: 50px;
+    padding: 20px 40px;
+}
+#second_pic{
+    width: 450px;
+    top: 250px;
+    margin-left: 50px;
+}
+#my_sec_pic{
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    left: 140px;
+}
+.sec_paragraph{
+    margin-left: 750px;
+    margin-top: -500px;
+    padding: 100px;
+    color: blanchedalmond;
+}
+#about{
+    color: white;
+    font-size: 40px;
+    font-family: cursive;
+}
+.bg_img{
+    background-image: linear-gradient(red, gray);
+    width: 1510px;
+    height: 600px;
+    margin-top: -74px;
+}
+.burger{
+    width: 250px;
+    height: 180px;
+    border: 1px solid white;
+    border-radius: 15%;
+    padding: 10px;
+
+}
+.box{
+    border: 2px solid white;
+    border-radius: 11%;
+    width: 330px;
+    height: 450px;
+    margin-left: 50px;
+    margin-top: 50px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 black;
+    text-align: center;
+}
+.text_sml{
+    font-size: 20px;
+}
+.box_one{
+    border: 2px solid white;
+    border-radius: 11%;
+    width: 330px;
+    height: 450px;
+    margin-left: 420px;
+    margin-top: -454px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 black;
+    text-align: center;
+}
+.box_two{
+    border: 2px solid white;
+    border-radius: 11%;
+    width: 330px;
+    height: 450px;
+    margin-left: 790px;
+    margin-top: -454px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 black;
+    text-align: center;
+}
+.box_three{
+    border: 2px solid white;
+    border-radius: 11%;
+    width: 330px;
+    height: 450px;
+    margin-left: 1160px;
+    margin-top: -454px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 black;
+    text-align: center;
+}
+
